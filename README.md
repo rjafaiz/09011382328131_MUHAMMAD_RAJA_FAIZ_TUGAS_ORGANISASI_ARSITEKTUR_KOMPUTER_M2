@@ -1,6 +1,7 @@
 # Muhammad Raja Faiz
 
 **Perbedaan utama antara Organisasi Komputer dan Arsitektur Komputer beserta contohnya**
+=
 Arsitektur Komputer adalah atribut-atribut sistem komputer yang terkait dengan seseorang programmer
 Contohnya seperti Set intruksi, Aritmetika yang digunakan, Teknik Pengalamatan, Mekanisme I/O
 
