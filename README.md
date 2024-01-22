@@ -43,3 +43,15 @@ Control Mechanism : Pengendali Utama Fungsi Komputer.
 Data Storage Facility : Unit menyimpan data.
 
 Data Processing Facility: Unit pemrosesan data.
+
+**Keyboard ke Screen**
+![Keyboard](https://github.com/rjafaiz/Muhammad-Raja-Faiz-Tugas-Pertama-Organisasi-dan-Arsitektur-Komputer/assets/146687861/b4dec4e7-fc71-4891-963d-1ec35781fb4a)
+
+**Internet download to disk**
+![IDM](https://github.com/rjafaiz/Muhammad-Raja-Faiz-Tugas-Pertama-Organisasi-dan-Arsitektur-Komputer/assets/146687861/c3567a14-963d-4d59-ac71-634c546f9b40)
+
+**Updating bank statement**
+![Updating bank statement](https://github.com/rjafaiz/Muhammad-Raja-Faiz-Tugas-Pertama-Organisasi-dan-Arsitektur-Komputer/assets/146687861/66f2b493-c329-480e-9e73-3d92b4d10f80)
+
+**Printing a bank statement**
+![Printing a bank statement](https://github.com/rjafaiz/Muhammad-Raja-Faiz-Tugas-Pertama-Organisasi-dan-Arsitektur-Komputer/assets/146687861/3bf55ef6-47fd-4c01-acb0-b163653395ef)
