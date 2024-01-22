@@ -1,4 +1,4 @@
-# 09011382328131_MUHAMMAD_RAJA_FAIZ_TUGAS_ORGANISASI_ARSITEKTUR_KOMPUTER_M2
+# Muhammad Raja Faiz
 
 **Perbedaan utama antara Organisasi Komputer dan Arsitektur Komputer beserta contohnya**
 Arsitektur Komputer adalah atribut-atribut sistem komputer yang terkait dengan seseorang programmer
